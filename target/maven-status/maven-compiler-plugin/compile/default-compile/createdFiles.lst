@@ -1,0 +1,8 @@
+com\filpkart\pages\Electronics.class
+com\filpkart\pages\Loginpage.class
+com\flipkart\testcases\TC_Loginpagetest_001.class
+com\flipkart\testcases\Baseclass.class
+com\flipkart\testcases\TC_LoginDDT_002.class
+com\flipkart\utilities\Reporting.class
+com\flipkart\utilities\Readconfig.class
+com\flipkart\utilities\XLData.class

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Flipkart Suite">
+
+	<listeners>
+		<listener class-name="com.flipkart.utilities.Reporting" />
+	</listeners>
+	<test name="TC_Loginpagetest_001.java">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.flipkart.testcases.TC_Loginpagetest_001" />
+			<!-- <class name="com.flipkart.testcases.TC_LoginDDT_002" /> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
