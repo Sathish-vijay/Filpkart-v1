@@ -20,6 +20,10 @@ public class TC_Loginpagetest_001 extends Baseclass {
 
 		ele.moveonElectronics();
 
+		ele.verifyappletext();
+
+		ele.clickonapple();
+
 	}
 
 }

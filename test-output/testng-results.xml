@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Flipkart Suite" duration-ms="103069" started-at="2020-08-13T10:52:48 IST" finished-at="2020-08-13T10:54:31 IST">
+  <suite name="Flipkart Suite" duration-ms="44533" started-at="2020-08-18T20:59:00 IST" finished-at="2020-08-18T20:59:44 IST">
     <groups>
     </groups>
-    <test name="TC_Loginpagetest_001.java" duration-ms="103069" started-at="2020-08-13T10:52:48 IST" finished-at="2020-08-13T10:54:31 IST">
+    <test name="TC_Loginpagetest_001.java" duration-ms="44533" started-at="2020-08-18T20:59:00 IST" finished-at="2020-08-18T20:59:44 IST">
       <class name="com.flipkart.testcases.TC_Loginpagetest_001">
-        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.flipkart.testcases.TC_Loginpagetest_001@15d0c81b]" name="Setup" is-config="true" duration-ms="69950" started-at="2020-08-13T10:52:51 IST" finished-at="2020-08-13T10:54:01 IST">
+        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.flipkart.testcases.TC_Loginpagetest_001@15d0c81b]" name="Setup" is-config="true" duration-ms="33397" started-at="2020-08-18T20:59:01 IST" finished-at="2020-08-18T20:59:34 IST">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.flipkart.testcases.TC_Loginpagetest_001@15d0c81b]" name="LoginTest" duration-ms="15938" started-at="2020-08-13T10:54:01 IST" finished-at="2020-08-13T10:54:17 IST">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.flipkart.testcases.TC_Loginpagetest_001@15d0c81b]" name="LoginTest" duration-ms="9866" started-at="2020-08-18T20:59:34 IST" finished-at="2020-08-18T20:59:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="captureScreen(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.TC_Loginpagetest_001@15d0c81b]" name="captureScreen" is-config="true" duration-ms="2" started-at="2020-08-13T10:54:18 IST" finished-at="2020-08-13T10:54:18 IST">
+        <test-method status="PASS" signature="captureScreen(org.testng.ITestResult)[pri:0, instance:com.flipkart.testcases.TC_Loginpagetest_001@15d0c81b]" name="captureScreen" is-config="true" duration-ms="4" started-at="2020-08-18T20:59:44 IST" finished-at="2020-08-18T20:59:44 IST">
           <params>
             <param index="0">
               <value>
@@ -33,7 +33,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureScreen -->
-        <test-method status="PASS" signature="close()[pri:0, instance:com.flipkart.testcases.TC_Loginpagetest_001@15d0c81b]" name="close" is-config="true" duration-ms="13396" started-at="2020-08-13T10:54:18 IST" finished-at="2020-08-13T10:54:31 IST">
+        <test-method status="PASS" signature="close()[pri:0, instance:com.flipkart.testcases.TC_Loginpagetest_001@15d0c81b]" name="close" is-config="true" duration-ms="0" started-at="2020-08-18T20:59:44 IST" finished-at="2020-08-18T20:59:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
